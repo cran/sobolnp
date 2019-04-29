@@ -1,0 +1,11 @@
+c36c0bf33b4aed1e39a42a002523d550 *DESCRIPTION
+1c45e1d822be962eb0f04229a7326571 *LICENSE
+0a49ed0f2396cfacd0677b46fbf99177 *NAMESPACE
+498b8ca9f9aef4b2264c821199349e84 *NEWS.md
+7770c8182e169c2e09fd0367cbda6455 *R/plot.sobolnp.R
+8cc394c53c60171c6596e5ae6e1f0e25 *R/print.sobolnp.R
+bd19bc978a35c1d739214ae310af97df *R/sobolnp.R
+17ab882e093eae7fa24dcf83de9bc3b5 *man/plot.Rd
+beec10dd3319bf32ca38b4f89afcc31b *man/print.Rd
+b65fc72b476420ddd0c2ba0661c1f4f1 *man/sobolnp.Rd
+87bd63940892be53eca97b14520954dd *tests/tests.R
