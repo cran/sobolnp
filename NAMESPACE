@@ -2,15 +2,19 @@
 
 S3method(plot,sobolnp)
 S3method(print,sobolnp)
-export(plot)
-export(print)
 export(sobolnp)
-import(minqa)
-import(np)
-import(pbmcapply)
-importFrom(graphics,axis)
-importFrom(graphics,legend)
-importFrom(graphics,plot.default)
-importFrom(graphics,segments)
-importFrom(stats,residuals)
-importFrom(stats,var)
+importFrom(graphics,
+  barplot,
+  legend
+)
+importFrom(np,
+  npreg,
+  npregbw
+)
+importFrom(parallel,mclapply)
+importFrom(pbmcapply,pbmclapply)
+importFrom(stats,
+  optimize,
+  residuals,
+  var
+)
